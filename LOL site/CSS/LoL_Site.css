@@ -2,7 +2,7 @@
     background-color:#121212;
 }
 .navbar-nav{
-    margin-left: 380px;
+    margin-left: 250px;
 }
 .top-logo{
     margin-top:5px;
@@ -18,7 +18,7 @@ color: #c9aa71;
 }
 #play-bt{
     margin-top:10px;
-    background-image: url(/Images/sprites.png);
+    background-image: url("../Images/sprites.png");
      background-position: -139px 0px;
     width: 129px;
     height: 41px;
