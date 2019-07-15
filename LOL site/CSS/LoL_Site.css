@@ -1,3 +1,51 @@
 .Top{
-    background-color: black;
+    background-color:#121212;
+}
+.navbar-nav{
+    margin-left: 380px;
+}
+.top-logo{
+    margin-top:5px;
+    height: 35px;
+    width: 35px;
+}
+#bbe a{
+color: #c9aa71;
+    margin-left: 40px;
+}
+#bbe a:hover{
+    color: #f7c465;
+}
+#play-bt{
+    margin-top:10px;
+    background-image: url(/Images/sprites.png);
+     background-position: -139px 0px;
+    width: 129px;
+    height: 41px;
+    color: #b2d9db;
+    float: right;
+    height: 41px;
+    line-height: 28px;
+    margin: 5px 0 0 17px;
+    padding: 6px 0 0 0;
+    position: relative;
+    text-align: center;
+    width: 129px;
+    z-index: 0;
+}
+#play-bt:hover{
+    background-position: 0px -51px;
+}
+.nav.navbar-nav.navbar-right>li>a{
+color: #c9aa71;
+}
+.nav.navbar-nav.navbar-right>li>a:hover{
+color: #f7c465;
+}
+
+#split{
+    width: 2px;
+    background-color:  #595959;
+    height: 35px;
+margin-top: 7px;
 }
