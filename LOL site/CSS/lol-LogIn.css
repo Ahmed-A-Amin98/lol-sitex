@@ -1,3 +1,14 @@
+body
+{
+    background-image: url("../Images/Summoners-Rift%20bg.jpg");
+    background-repeat: repeat-y;
+    
+}
+.pic_div
+{
+    background-color: transparent;  
+    border-color: transparent;  
+}
 .Space{
     margin-top: 100px;
 }
@@ -13,7 +24,14 @@
     border: none;
 }
 .ground{
+
+      border-radius: 30px;
     background-color: black;
+    width: 500px;
+    margin: 80px auto;
+    position: relative;
+    border-color: transparent;
+  padding: 60px 70px; }
 }
 .user{
     color: #a09b8c;
@@ -55,4 +73,9 @@
     width: 100%;
    text-align: right;
     margin-top: -60px;
+}
+.piclogo{
+    width: 400px;
+    height: 400px;
+    padding-top: 100px;
 }
